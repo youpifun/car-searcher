@@ -1,0 +1,38 @@
+[
+    {
+        "title": "Brand",
+        "accessor": "brand",
+        "align": "center",
+        "sortable": false
+    },
+    {
+        "title": "Model",
+        "accessor": "model",
+        "align": "center",
+        "sortable": false
+    },
+    {
+        "title": "Year",
+        "accessor": "year",
+        "align": "center",
+        "sortable": true
+    },
+    {
+        "title": "Fuel",
+        "accessor": "fuel",
+        "align": "center",
+        "sortable": false
+    },
+    {
+        "title": "Type",
+        "accessor": "bodyType",
+        "align": "center",
+        "sortable": false
+    },
+    {
+        "title": "Price",
+        "accessor": "price",
+        "align": "center",
+        "sortable": true
+    }
+]
