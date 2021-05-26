@@ -4,7 +4,7 @@
         "brand": "Lada",
         "model": "VAZ-5",
         "year": 1990,
-        "fuel": "electric",
+        "fuel": "petrol",
         "bodyType": "Sedan",
         "price": 18500
     },
@@ -24,30 +24,30 @@
         "year": 1980,
         "fuel": "petrol",
         "bodyType": "Estate",
-        "price": 2500
+        "price": 12500
     },
     {
         "id": "4",
         "brand": "Opel",
         "model": "Astra",
-        "year": 1990,
+        "year": 2006,
         "fuel": "hybrid",
         "bodyType": "Pickup",
-        "price": 18500
+        "price": 68700
     },
     {
         "id": "5",
         "brand": "Mazda",
         "model": "Rx8",
-        "year": 1990,
+        "year": 2014,
         "fuel": "hybrid",
         "bodyType": "SUV",
-        "price": 18500
+        "price": 36500
     },
     {
         "id": "6",
         "brand": "Lada",
-        "model": "VAZ-5",
+        "model": "Vesta",
         "year": 2009,
         "fuel": "petrol",
         "bodyType": "Cabrio",
