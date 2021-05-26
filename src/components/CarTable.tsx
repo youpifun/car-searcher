@@ -21,7 +21,7 @@ type CustomTableRow = TableRow & {
 type CustomIndexableTableRow = IIndexable & CustomTableRow;
 
 
-class CarFilter extends React.Component {
+class CarTable extends React.Component {
     getUniqueFieldsForTextFilter(field: string, arr: CustomIndexableTableRow[]) {
         return Array.from(new Set(arr.map(element => element[field]))).map(element => Object({name: element, value: element}));
     }
@@ -122,4 +122,4 @@ class CarFilter extends React.Component {
     }
 }
 
-export default CarFilter;
+export default CarTable;
